@@ -37,6 +37,9 @@ Command-line argument parser for C++. A clean and intuitive argument parsing lib
 ### [stable-diffusion-mcp](https://github.com/SiLeader/stable-diffusion-mcp)
 Generate AI images using Stable Diffusion models through the Model Context Protocol (MCP).
 
+### [ayatori](https://github.com/SiLeader/ayatori)
+Tag-based routing for LLMs such as OpenAI API-compatibles, Ollama, Azure, etc...
+
 ## 🤝 Open Source Contributions
 
 I've contributed to several open source projects:
@@ -44,7 +47,7 @@ I've contributed to several open source projects:
 - **[NuRaft](https://github.com/eBay/NuRaft)** - Raft consensus algorithm implementation
 - **[http_auth (Dart)](https://github.com/marcoesposito1988/http_auth)** - HTTP authentication library
 - **[usbip-win](https://github.com/cezanne/usbip-win)** - USB/IP for Windows
-- **[ollama](https://github.com/ollama/ollama)** - Open PR for improvements
+- **[ollama](https://github.com/ollama/ollama)** - Merged my PR for improvements performance in cgroups environment
 
 ## 📊 GitHub Stats
 
