@@ -28,6 +28,9 @@ Key Management System built with Rust. Secure and efficient cryptographic key ma
 ### [pingress-controller](https://github.com/kinorca/pingress-controller)
 Kubernetes Ingress Controller using Pingora. High-performance cloud-native networking solution.
 
+### [EmveDB](https://github.com/SiLeader/emvedb)
+EmveDB is an embedded, single-file vector database for Rust.
+
 ### [diffusion-stash](https://github.com/SiLeader/diffusion-stash)
 Self-hosted storage system for generative AI models and generated images. Backend built with Rust and actix-web, frontend with TypeScript and Angular.
 
