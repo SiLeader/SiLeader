@@ -22,6 +22,9 @@ I'm a software engineer passionate about systems programming, distributed system
 ### [Tugboat](https://github.com/SiLeader/tugboat)
 Kubernetes like VM orchestration system.
 
+### [loop-csi-provisioner](https://github.com/SiLeader/loop-csi-provisioner)
+Kubernetes CSI driver that provides ext4 volumes backed by loop-mounted image files on a local directory or NFS export.
+
 ### [Kagimori](https://github.com/kinorca/Kagimori)
 Key Management System built with Rust. Secure and efficient cryptographic key management solution.
 
@@ -39,9 +42,6 @@ Render HTML and CSS in Android Jetpack Compose. Enables displaying web content n
 
 ### [argparse](https://github.com/SiLeader/argparse)
 Command-line argument parser for C++. A clean and intuitive argument parsing library.
-
-### [stable-diffusion-mcp](https://github.com/SiLeader/stable-diffusion-mcp)
-Generate AI images using Stable Diffusion models through the Model Context Protocol (MCP).
 
 ### [ayatori](https://github.com/SiLeader/ayatori)
 Tag-based routing for LLMs such as OpenAI API-compatibles, Ollama, Azure, etc...
